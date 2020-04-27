@@ -1,2 +1,2 @@
 # TwitchPlays
-Jist another twitchplays bot, work with all emulators. 
+Just another twitchplays bot, work with all emulators. 
